@@ -1,4 +1,4 @@
-package cydeoInterviewQuestions;
+package cydeoInterviewQuestions.week_02;
 
 public class PrimeNumber {
     /*

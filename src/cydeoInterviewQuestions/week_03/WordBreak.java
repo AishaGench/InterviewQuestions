@@ -1,4 +1,4 @@
-package cydeoInterviewQuestions;
+package cydeoInterviewQuestions.week_03;
 
 import java.util.List;
 

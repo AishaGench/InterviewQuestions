@@ -1,4 +1,4 @@
-package cydeoInterviewQuestions;
+package cydeoInterviewQuestions.week_01;
 
 public class Reverse_String {
     /*
