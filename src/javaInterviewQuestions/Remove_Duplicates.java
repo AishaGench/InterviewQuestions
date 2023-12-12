@@ -5,7 +5,7 @@ import java.util.LinkedHashSet;
 
 public class Remove_Duplicates {
     public static void main(String[] args) {
-        System.out.println(removeDup("Hello world"));
+        System.out.println(removeDup("laila"));
         System.out.println(removeDupHash("hello world"));
         
     }
